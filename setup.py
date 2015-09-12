@@ -33,7 +33,7 @@ setup(
         'Intended Audience :: Developers',
         'Operating System :: POSIX',
         'Topic :: Internet',
-        'Topic :: Software Development :: Libraries'
+        'Topic :: Software Development :: Libraries',
         'Topic :: Software Development :: Libraries :: Python Modules',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2.7',
