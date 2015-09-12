@@ -20,6 +20,7 @@ setup(
     version = mime.__version__,
     author = 'lipixun',
     author_email = 'lipixun@outlook.com',
+    url = 'https://github.com/lipixun/pymime',
     packages = [ 'mime', 'mime.spec', 'mime.tools' ],
     package_dir = { '': 'src' },
     install_requires = requirements,
@@ -29,7 +30,7 @@ setup(
     keywords = [ 'python', 'mimetypes', 'mime' ],
     classifiers = [
         'Development Status :: 5 - Production/Stable',
-        'License :: OSI Approved :: BSD License',
+        'License :: OSI Approved :: GNU General Public License v2 (GPLv2)',
         'Intended Audience :: Developers',
         'Operating System :: POSIX',
         'Topic :: Internet',
